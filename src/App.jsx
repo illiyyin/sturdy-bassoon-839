@@ -5,7 +5,7 @@ import { Routes, Route,BrowserRouter } from 'react-router-dom'
 const App = () => {
   return(
     <>
-      <BrowserRouter basename="/calories-calculator">
+      <BrowserRouter basename="/sturdy-bassoon-839">
       <Routes>
         <Route path='/' element={<Menu />} />
       </Routes>
